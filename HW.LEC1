@@ -1,0 +1,43 @@
+1. What are the four tags required in every HTML page?
+1  <!DOCTYPE html>: This tag is used to declare the HTML version being used in the document. It should be placed at the very beginning of the HTML file.
+2  <html>: This tag serves as the root element of an HTML document. It encapsulates all the other HTML elements on the page.
+3  <head>: This tag contains meta-information about the HTML document, such as the title, character encoding, linked stylesheets, and other metadata. It does not display any visible content on the web page.
+4  <body>: This tag defines the main content of the HTML document that is intended to be displayed in the web browser. It includes all the visible content like text, images, links, headings, paragraphs, etc.
+2. What is HTML emojis tags and write simple program to disply some emojis
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Emoji Example</title>
+</head>
+<body>
+  <h1>Emojis</h1>
+  <p>Here are some emojis:</p>
+  <p>&#x1F600; &#x1F601; &#x1F602; &#x1F603;</p>
+  <p>These are Unicode characters representing the emojis.</p>
+  <p>&#128512; &#128513; &#128514; &#128515;</p>
+  <p>These are HTML entities representing the emojis.</p>
+</body>
+</html>
+3.Make a personal web. Type a few paragraphs to introduce yourself to the world and use the HTML tags you’ve learned in this Experiment to make them into a web page.
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+</head>
+<body>
+  <h1>About Me</h1>
+   
+  <p>Hello, world! My name is  montaha and I'm an engineering student .</p>
+  
+  <p>Other than engineering, I am a bodybuilder and jockey.</p>
+  
+  <p>Feel free to get in touch if you'd like to collaborate or discuss opportunities in tele at m-io19.</p>
+</body>
+</html>
+
+
+Discussion Lec-1 
+Montaha Ali Ali
+Information /Morning
